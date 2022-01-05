@@ -3,8 +3,9 @@
 Ich habe ein script für FiveM ESX programmiert.
 Das Fahrzeug (baller4) ist ZIEMLICH OVERPOWERT.
 ========== EDIT ==========
-you Copy this in your'e "server.cfg" :
+Du kopierst das untere in die "server.cfg" :
 ensure esx_anwaltjob
 ensure RR_C
-And now you done!
+
+Sobald du das gemacht hasst bist du fertig.
 
