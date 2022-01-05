@@ -2,9 +2,9 @@ fx_version 'adamant'
 
 game 'gta5'
 
-description 'ESX Door Lock'
+description 'ESX Anwalt'
 
-version '1.4.0'
+version '1.2.0'
 
 
 server_scripts {
