@@ -18,6 +18,6 @@ INSERT INTO `jobs` (name, label) VALUES
 
 INSERT INTO `job_grades` (job_name, grade, name, label, salary, skin_male, skin_female) VALUES
 	('anwalt',1,'boss','Anwalt',10000,'{}','{}')
-	('anwalt',1,'boss','Privat',5000,'{}','{}')
+	('anwalt',2,'boss','Privat',5000,'{}','{}')
 ;
 
