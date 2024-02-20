@@ -3,6 +3,7 @@ fx_version 'adamant'
 game 'gta5'
 
 description 'ESX Anwalt'
+author "Florin/z modding"
 
 version '1.2.0'
 
